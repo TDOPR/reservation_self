@@ -1,0 +1,11 @@
+E:\LearningRust\reservation\reservating_self\target\debug\deps\libc-3dd6b944f389d146.rmeta: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+E:\LearningRust\reservation\reservating_self\target\debug\deps\liblibc-3dd6b944f389d146.rlib: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+E:\LearningRust\reservation\reservating_self\target\debug\deps\libc-3dd6b944f389d146.d: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs:

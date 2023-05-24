@@ -1,0 +1,11 @@
+E:\LearningRust\reservation\reservating_self\target\debug\deps\matchit-0c28ee770c436458.rmeta: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\params.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\router.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\tree.rs
+
+E:\LearningRust\reservation\reservating_self\target\debug\deps\libmatchit-0c28ee770c436458.rlib: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\params.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\router.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\tree.rs
+
+E:\LearningRust\reservation\reservating_self\target\debug\deps\matchit-0c28ee770c436458.d: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\params.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\router.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\tree.rs
+
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\error.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\params.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\router.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\matchit-0.7.0\src\tree.rs:
